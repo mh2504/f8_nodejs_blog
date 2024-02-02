@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/mh2504/f8_nodejs_blog#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^8.1.0"
   },
   "devDependencies": {
     "express-handlebars": "^7.1.2",
